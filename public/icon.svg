@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" rx="96" fill="#006F88" />
+  <g transform="translate(96, 88)" fill="#ffffff">
+    <!-- Open Book Icon -->
+    <path d="M160 40C120 18 64 16 16 28C7 30 0 38 0 48V240C0 252 10 260 22 258C68 248 118 250 152 272V40Z" opacity="0.95"/>
+    <path d="M168 40C208 18 264 16 304 28C313 30 320 38 320 48V240C320 252 310 260 298 258C252 248 202 250 168 272V40Z" opacity="0.82"/>
+    <!-- Barcode Stripes Underneath -->
+    <rect x="16" y="296" width="16" height="44" rx="3" />
+    <rect x="44" y="296" width="8" height="44" rx="2" />
+    <rect x="64" y="296" width="24" height="44" rx="3" />
+    <rect x="100" y="296" width="8" height="44" rx="2" />
+    <rect x="120" y="296" width="16" height="44" rx="3" />
+    <rect x="148" y="296" width="28" height="44" rx="3" />
+    <rect x="188" y="296" width="10" height="44" rx="2" />
+    <rect x="210" y="296" width="20" height="44" rx="3" />
+    <rect x="242" y="296" width="8" height="44" rx="2" />
+    <rect x="262" y="296" width="16" height="44" rx="3" />
+    <rect x="290" y="296" width="14" height="44" rx="3" />
+  </g>
+</svg>
